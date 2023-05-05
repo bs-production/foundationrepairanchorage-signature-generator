@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/813/FCSRI_Logo_RGB650w.png" alt="" style="width:400px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/817/FCSRAlaska_Logo_RGB.svg" alt="" style="width:400px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -75,7 +75,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2023 Foundation and Crawl Space Repair of Idaho
+                    &copy;2023 Foundation and Crawl Space Repair of Alaska
                 </p>
             </div>
         </div>
@@ -158,7 +158,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #273897;
+  border-top: 1px dashed #134c98;
 }
 .gif-box ul {
     text-align:left;
@@ -208,7 +208,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #273897;
+  background-color: #134c98;
   border-color: transparent;
   color: #fff;
 }
